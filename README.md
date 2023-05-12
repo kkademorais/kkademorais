@@ -18,4 +18,6 @@
 
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkademorais&show_icons=true&theme=dracula)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavoguanabara&repo=git-github)](https://github.com/gustavoguanabara/git-github)
+
+##
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gustavoguanabara&repo=git-github)](https://github.com/gustavoguanabara/git-github)
