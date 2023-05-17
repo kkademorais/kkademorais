@@ -20,4 +20,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkademorais&show_icons=true&theme=dracula)
 
 ##
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkademorais&repo=git-github)](https://github.com/kkademorais/projetos_python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkademorais&repo=projetos_python)](https://github.com/kkademorais/projetos_python)
