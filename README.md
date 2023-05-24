@@ -10,7 +10,7 @@
 ### Sup!! I'm Kaike de Morais (EN-US)👋
 
 ##
-- 📚 Nowadays I'm a undergraduate student in Computer Science for the Federal University of Catalão in Brazil (UFCAT) - 1º Semester
+- 📚 Nowadays I'm an undergraduate student in Computer Science for the Federal University of Catalão in Brazil (UFCAT) - 1º Semester
 - 💻 I am studying Python
 - 🌎 I am interested in having professional experiences and I want to work abroad 
 - 🧑‍💻 I can easily comunnicate with other people and I like taking new risks and objectives
