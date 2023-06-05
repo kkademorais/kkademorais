@@ -31,3 +31,4 @@
 
 ##
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkademorais&repo=projetos_python)](https://github.com/kkademorais/projetos_python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kkademorais&repo=projetos_C)](https://github.com/kkademorais/projetos_C)
