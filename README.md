@@ -1,8 +1,8 @@
 ### Olá!! Sou o Kaike de Morais (PT-BR)👋
 
 ##
-- 📚 Atualmente sou estudante de Ciência da Computação pela Universidade Federal de Catalão (UFCAT) - 2º Período
-- 💻 Estou estudando Python e C
+- 📚 Atualmente sou estudante de Ciência da Computação pela Universidade Federal de Uberlândia (UFU)
+- 💻 C, Java, Python
 - 🌎 Tenho interesse em ter experiências profissionais na área de Desenvolvimento Backend e almejo trabalhar no exterior como um Arquiteto de Software
 - 🧑‍💻 Tenho facilidade em comunicação interpessoal e gosto de sempre buscar novos objetivos
 - 💬 Contate-me: [E-mail](mailto:kaike.carvalho@outlook.com) | [Linkedin](https://www.linkedin.com/in/kaikemcarvalho/) | [Instagram](https://www.instagram.com/kaikemcarvalho/)
@@ -10,8 +10,8 @@
 ### Sup!! I'm Kaike de Morais (EN-US)👋
 
 ##
-- 📚 Nowadays I'm an undergraduate student in Computer Science for the Federal University of Catalão in Brazil (UFCAT) - 2º Semester
-- 💻 I am studying Python and C
+- 📚 Nowadays I'm an undergraduate student in Computer Science for the Federal University of Uberlândia in Brazil (UFU) 
+- 💻 C, Java, Python
 - 🌎 I am interested in having professional experiences as a Backend Developer and I want to work abroad as an Software Architect 
 - 🧑‍💻 I can easily comunnicate with other people and I like taking new risks and objectives
 - 💬 Contact me: [E-mail](mailto:kaike.carvalho@outlook.com) | [Linkedin](https://www.linkedin.com/in/kaikemcarvalho/) | [Instagram](https://www.instagram.com/kaikemcarvalho/)
